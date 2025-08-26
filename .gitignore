@@ -1,0 +1,14 @@
+# Build artifacts
+/dist/*
+!/dist/.gitkeep
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# PowerShell transient
+*.ps1xml
+*.pssc
