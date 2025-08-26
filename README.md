@@ -19,7 +19,7 @@ If you don’t want an EXE, run `src\SHA256-Verify-GUI.ps1` from PowerShell. A l
 Open a PowerShell prompt at the repo root and run:
 
 ```powershell
-build.ps1 -Version "1.0.0.0"
+build.ps1 -Version "1.0.0.0"
 ```
 
 Artifacts land in `dist\`. You can change the icon/version via parameters.
